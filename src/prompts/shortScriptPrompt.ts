@@ -10,7 +10,7 @@ Hook
 Promised Delivery (What youre going to tell them)
 Delivery of the Promise (Tell them what you were going to tell them)
 Authority statement (This doesn't have to be hardcore, maybe you can leave this blank for me to fill it in)
-Call To Action
+Call To Action (make sure this is clear, even if it is just to follow)
 
 Raw Content:
 "${rawContent}"
